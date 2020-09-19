@@ -8,6 +8,7 @@
   * [Contributions](#contributions)
   * [Questions](#questions)
   
+![employee-tracker-demo](https://user-images.githubusercontent.com/66040607/93673035-2bbcc600-fa79-11ea-8416-ea4060f4c8a0.gif)
 
   # Project Description
   This project keeps track of employees and their individual roles, salaries, departments, etc.
