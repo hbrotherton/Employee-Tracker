@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/hbrotherton/Employee-Tracker/issues"
   },
-  "homepage": "https://github.com/hbrotherton/Employee-Tracker#readme"
+  "homepage": "https://github.com/hbrotherton/Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
 }
